@@ -1,8 +1,6 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <float.h>
 #include <stdint.h>
 
 #define REL_STAT_MAX 8
